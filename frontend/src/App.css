@@ -1,0 +1,9 @@
+body{
+
+    background-color: rgb(1, 8, 19);
+    /* Example background color */
+    color: white;
+    /* Example text color */
+    min-height: 100vh;
+    /* Ensure full viewport height */
+}

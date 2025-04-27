@@ -1,0 +1,228 @@
+/* ContestsList.css */
+@import url('https://fonts.googleapis.com/css2?family=Nabla&family=Playwrite+CU:wght@355&display=swap');
+
+.nabla-unique  {
+     font-family: "Nabla", system-ui;
+     font-optical-sizing:auto;
+     font-weight: 400;
+     font-style:normal;
+     font-size:xxx-large;
+     padding-left: 10rem;
+     font-variation-settings:
+         "EDPT" 78,
+         "EHLT" 14;
+ }
+/* Chinese-themed styling */
+.chinese-theme {
+    font-family: 'Noto Sans SC', sans-serif;
+    /* Chinese font, replace with your preferred font */
+    color: #333;
+    /* Main text color */
+}
+.styl{
+    background-color: #1f8ef5;
+}
+
+.chinese-theme h1,
+.chinese-theme h2,
+.chinese-theme h3,
+.chinese-theme h4,
+.chinese-theme h5,
+.chinese-theme h6 {
+    font-family: 'Noto Sans SC', sans-serif;
+    /* Heading font */
+    color: #333;
+    /* Heading text color */
+}
+
+.chinese-theme .container {
+    max-width: 800px;
+    /* Adjust container width as needed */
+    margin: 0 auto;
+    /* Center align container */
+}
+
+.chinese-theme .error-message {
+    color: red;
+    /* Error message color */
+}
+
+.chinese-theme .text-red-500 {
+    color: #e53e3e;
+    /* Red text color */
+}
+
+.chinese-theme .text-blue-500 {
+    color: #3182ce;
+    /* Blue text color */
+}
+
+.chinese-theme .text-blue-700 {
+    color: #2b6cb0;
+    /* Darker blue text color */
+}
+
+.chinese-theme .text-black {
+    color: #000;
+    /* Black text color */
+}
+
+.chinese-theme .bg-gray-800 {
+    background-color: #2d3748;
+    /* Dark gray background color */
+}
+
+.chinese-theme .bg-blue-600 {
+    background-color: #3182ce;
+    /* Blue background color */
+}
+
+.chinese-theme .bg-gray-600 {
+    background-color: #4a5568;
+    /* Gray background color */
+}
+
+.chinese-theme .bg-green-500 {
+    background-color: #48bb78;
+    /* Green background color */
+}
+
+.chinese-theme .bg-green-700 {
+    background-color: #2f855a;
+    /* Darker green background color */
+}
+
+.chinese-theme .rounded-full {
+    border-radius: 9999px;
+    /* Rounded border */
+}
+
+.chinese-theme .shadow-md {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+    /* Material design shadow */
+}
+
+.chinese-theme .hover\:bg-green-700:hover {
+    background-color: #2f855a;
+    /* Darker green hover background color */
+}
+
+.chinese-theme .hover\:bg-blue-700:hover {
+    background-color: #2b6cb0;
+    /* Darker blue hover background color */
+}
+
+.chinese-theme .hover\:text-blue-700:hover {
+    color: #2b6cb0;
+    /* Darker blue hover text color */
+}
+
+.chinese-theme .cursor-pointer {
+    cursor: pointer;
+    /* Pointer cursor */
+}
+
+.chinese-theme .uppercase {
+    text-transform: uppercase;
+    /* Uppercase text */
+}
+
+.chinese-theme .underline {
+    text-decoration: underline;
+    /* Underline text */
+}
+
+.chinese-theme .px-4 {
+    padding-left: 1rem;
+    /* Horizontal padding */
+    padding-right: 1rem;
+    /* Horizontal padding */
+}
+
+.chinese-theme .py-4 {
+    padding-top: 1rem;
+    /* Vertical padding */
+    padding-bottom: 1rem;
+    /* Vertical padding */
+}
+
+.chinese-theme .text-xs {
+    font-size: 0.75rem;
+    /* Extra small font size */
+}
+
+.chinese-theme .font-medium {
+    font-weight: 500;
+    /* Medium font weight */
+}
+
+.chinese-theme .tracking-wider {
+    letter-spacing: 0.05em;
+    /* Wider letter spacing */
+}
+
+.chinese-theme .whitespace-nowrap {
+    white-space: nowrap;
+    /* No wrap text */
+}
+
+.chinese-theme .min-w-full {
+    min-width: 100%;
+    /* Minimum width */
+}
+
+.chinese-theme .divide-y {
+    border-collapse: separate;
+    /* Separate border collapse */
+    border-spacing: 0;
+    /* No spacing between borders */
+}
+
+.chinese-theme .bg-gray-50 {
+    background-color: #f7fafc;
+    /* Light gray background color */
+}
+
+.chinese-theme .bg-white {
+    background-color: #fff;
+    /* White background color */
+}
+
+.chinese-theme .divide-gray-200> :not(template)~ :not(template) {
+    border-color: #edf2f7;
+    /* Light gray border color */
+}
+
+.chinese-theme .divide-y> :not(template)~ :not(template) {
+    border-width: 0 0 1px;
+    /* Border width */
+}
+
+.chinese-theme .table-auto {
+    table-layout: auto;
+    /* Automatic table layout */
+}
+
+.chinese-theme .table-auto {
+    width: auto;
+    /* Automatic width */
+}
+
+.chinese-theme .px-6 {
+    padding-left: 1.5rem;
+    /* Horizontal padding */
+    padding-right: 1.5rem;
+    /* Horizontal padding */
+}
+
+.chinese-theme .py-3 {
+    padding-top: 0.75rem;
+    /* Vertical padding */
+    padding-bottom: 0.75rem;
+    /* Vertical padding */
+}
+
+.chinese-theme .whitespace-nowrap {
+    white-space: nowrap;
+    /* No wrap text */
+}

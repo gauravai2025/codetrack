@@ -1,0 +1,15 @@
+.nabla-unique {
+    font-family: "Nabla", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xxx-large;
+    padding-left: 10rem;
+    font-variation-settings:
+        "EDPT" 78,
+        "EHLT" 14;
+}
+.styl {
+    background-color: #1f8ef5;
+    color: wheat;
+}
